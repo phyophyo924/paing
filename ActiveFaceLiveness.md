@@ -30,9 +30,9 @@ ActiveFaceLiveness mActiveFaceLiveness = new ActiveFaceLiveness.Builder("mobile_
 | :------- | :--------- | :--------- |
 | `setNumberOfSteps(int numberOfSteps)` | No | Sets the number of steps that your user must do to capture his/her selfie |
 | `setActionTimeout(int seconds)` | No | Sets the time to restart the actions flow for each movement |
-| [layout parameters](./Common#layout-parameters) | No | Common to all SDKs that have an activity with camera preview |
-| [style parameters](./Common#style-parameters) | No | Common to all SDKs that have an activity |
-| [common parameters](./Common#common-parameters) | No | Common to all SDKs |
+| [layout parameters](./Common-Parameters#layout-parameters) | No | Common to all SDKs that have an activity with camera preview |
+| [style parameters](./Common-Parameters#style-parameters) | No | Common to all SDKs that have an activity |
+| [common parameters](./Common-Parameters#common-parameters) | No | Common to all SDKs |
 
 After that, you can start the `ActiveFaceLivenessActivity` by passing this object by parameter in the caller intent:
 

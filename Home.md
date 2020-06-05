@@ -2,15 +2,19 @@ Welcome to the Combate a Fraude's Android SDKs wiki! Start the integration [here
 
 |          SDK            |                       Gradle dependency                       |
 | ----------------------- | ------------------------------------------------------------- |
-| Onboarding              | `com.combateafraude.sdk:onboarding:1.0.0-beta9`               |
-| DocumentDetector        | `com.combateafraude.sdk:document-detector:1.0.0-beta12`       |
-| PassiveFaceLiveness     | `com.combateafraude.sdk:passive-face-liveness:1.0.0-beta13`   |
-| ActiveFaceLiveness      | `com.combateafraude.sdk:active-face-liveness:1.0.0-beta11`    |
-| FaceAuthenticator       | `com.combateafraude.sdk:face-authenticator:1.0.0-beta10`      |
+| Onboarding              | `com.combateafraude.sdk:onboarding:1.0.0`               |
+| DocumentDetector        | `com.combateafraude.sdk:document-detector:1.0.0`       |
+| PassiveFaceLiveness     | `com.combateafraude.sdk:passive-face-liveness:1.0.0`   |
+| ActiveFaceLiveness      | `com.combateafraude.sdk:active-face-liveness:1.0.0`    |
+| FaceAuthenticator       | `com.combateafraude.sdk:face-authenticator:1.0.0`      |
 | DeviceAuthenticator     |  soon       |
 | AddressCheck            |  soon       |
 
 ## Release notes
+
+### Update - June 05, 2020
+
+- **Changed**: released the stable 1.0.0 versions!!
 
 ### Update - June 04, 2020
 

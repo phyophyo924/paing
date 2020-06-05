@@ -6,7 +6,7 @@
 
 ## Module details
 
-soon
+Provides an interface to informs you if the registered user address is trustworthy or not
 
 ## Required permissions 
 

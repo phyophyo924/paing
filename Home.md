@@ -224,6 +224,3 @@ Welcome to the Combate a Fraude's Android SDKs wiki! Start the integration [here
 
 #### CAF_Security version 1.0.1-beta
 - No changes
-
-## iOS <img src="https://github.com/combateafraude/Mobile/blob/master/resources/apple.png">
-

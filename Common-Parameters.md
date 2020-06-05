@@ -6,9 +6,9 @@
 * [Default style](#default-style)
 * [Default layout](#default-layout)
 
-**Note**: these parameters have to be called **after** the specific parameters for each SDK **according to the following order**
-
 ## Layout parameters
+
+**Note**: these parameters have to be called **after** the specific parameters for each SDK **according to the following order**
 
 | Parameter | Description |
 | :------- | :--------- |

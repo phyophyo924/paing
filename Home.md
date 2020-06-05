@@ -1,4 +1,4 @@
-Welcome to the Combate a Fraude's SDKs wiki! Go [here](./Downloading-and-importing) to start the integration.
+Welcome to the Combate a Fraude's Android SDKs wiki! Start the integration [here](./Downloading-and-importing)!
 
 |          SDK            |                       Gradle dependency                       |
 | ----------------------- | ------------------------------------------------------------- |

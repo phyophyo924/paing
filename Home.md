@@ -3,7 +3,7 @@ Welcome to the Combate a Fraude's Android SDKs wiki! Start the integration [here
 |          SDK            |                       Gradle dependency                       |
 | ----------------------- | ------------------------------------------------------------- |
 | Onboarding              | `com.combateafraude.sdk:onboarding:1.0.0`               |
-| DocumentDetector        | `com.combateafraude.sdk:document-detector:1.0.0`       |
+| DocumentDetector        | `com.combateafraude.sdk:document-detector:1.0.1`       |
 | PassiveFaceLiveness     | `com.combateafraude.sdk:passive-face-liveness:1.0.0`   |
 | ActiveFaceLiveness      | `com.combateafraude.sdk:active-face-liveness:1.0.0`    |
 | FaceAuthenticator       | `com.combateafraude.sdk:face-authenticator:1.0.0`      |

@@ -10,7 +10,7 @@ Provides an interface used to make sure that the person in front of the device i
 
 ## Required permissions
 
-``` java
+``` xml
 <uses-permission android:name="android.permission.CAMERA" />
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 <uses-permission android:name="android.permission.INTERNET" />

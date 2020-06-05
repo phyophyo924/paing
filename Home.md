@@ -15,6 +15,7 @@ Welcome to the Combate a Fraude's Android SDKs wiki! Start the integration [here
 ### Update - June 05, 2020
 
 - **Changed**: released the stable 1.0.0 versions!!
+- **Changed** the URL to our maven repository changed from `maven { url "https://raw.githubusercontent.com/combateafraude/Mobile/android-releases" }` to `maven { url "https://raw.githubusercontent.com/combateafraude/Android/releases" }`. We'll remove the old URL soon, so, please use the new.
 
 ### Update - June 04, 2020
 

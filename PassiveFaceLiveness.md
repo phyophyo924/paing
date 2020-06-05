@@ -28,9 +28,9 @@ PassiveFaceLiveness mPassiveFaceLiveness = new PassiveFaceLiveness.Builder("mobi
 
 | Parameter | Required? | Description |
 | :------- | :--------- | :--------- |
-| [layout parameters](./Common#layout-parameters) | No | Common to all SDKs that have an activity with camera preview |
-| [style parameters](./Common#style-parameters) | No | Common to all SDKs that have an activity |
-| [common parameters](./Common#common-parameters) | No | Common to all SDKs |
+| [layout parameters](./Common-Parameters#layout-parameters) | No | Common to all SDKs that have an activity with camera preview |
+| [style parameters](./Common-Parameters#style-parameters) | No | Common to all SDKs that have an activity |
+| [common parameters](./Common-Parameters#common-parameters) | No | Common to all SDKs |
 
 After that, you can start the `PassiveFaceLivenessActivity` by passing this object by parameter in the caller intent:
 

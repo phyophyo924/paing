@@ -12,6 +12,17 @@ Welcome to the Combate a Fraude's Android SDKs wiki! Start the integration [here
 
 ## Release notes
 
+### Update - June 09, 2020
+
+- **Changed**: released the stable 1.0.0 versions!!
+- **Changed**: now we have our official binary repository. So, you need to change the project `build.gradle` to `maven { url 'https://repo.combateafraude.com/android/release' }` instead the old `maven { url "https://raw.githubusercontent.com/combateafraude/..." }`
+- **Changed**: the `DataBingind` enable code from `dataBinding.enabled = true` to:
+``` gradle
+buildFeatures {
+    dataBinding = true
+}
+```
+
 ### Update - June 05, 2020
 
 - **Changed**: released the stable 1.0.0 versions!!

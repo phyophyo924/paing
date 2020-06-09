@@ -12,7 +12,7 @@ Welcome to the Combate a Fraude's Android SDKs wiki! Start the integration [here
 
 ## Release notes
 
-### Update - June 09, 2020
+### Update - June 09, 2020 :warning: BREAKING CHANGES :warning:
 
 - **Changed**: released the stable 1.0.0 versions!!
 - **Changed**: now we have our official binary repository. So, you need to change the project `build.gradle` to `maven { url 'https://repo.combateafraude.com/android/release' }` instead the old `maven { url "https://raw.githubusercontent.com/combateafraude/..." }`

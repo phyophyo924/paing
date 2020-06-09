@@ -81,7 +81,7 @@ dependencies {
 
 ### Locally
 
-1. Get the correspondent `.aar` file in the [version releases page](https://repo.combateafraude.com/android/release) and check the respective `.pom` file to get the transitive dependencies that the SDK needs.
+1. Get the correspondent `.aar` file in the [version releases page](https://repo.combateafraude.com) and check the respective `.pom` file to get the transitive dependencies that the SDK needs.
 
 2. Place the `.aar` in the `<project_folder>/app/libs` folder.
 

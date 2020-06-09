@@ -63,7 +63,7 @@ allprojects {
         
         ...
 
-        maven { url "https://raw.githubusercontent.com/combateafraude/Android/releases" }
+        maven { url 'https://repo.combateafraude.com/android/release' }
     }
 }
 ```
